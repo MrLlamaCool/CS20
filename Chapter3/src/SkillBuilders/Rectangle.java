@@ -21,8 +21,8 @@ public class Rectangle {
 		length = userinput.nextInt();
 		
 		//Display dimensions
-		System.out.println("Area of rectangle = " + length * width);
-		System.out.print("Perimeter of rectangle = " +  2 * (length + width));
+		System.out.println("Area of Rectangle = " + length * width);
+		System.out.print("Perimeter of Rectangle = " +  2 * (length + width));
 	}
 
 }
