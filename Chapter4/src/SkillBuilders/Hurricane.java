@@ -1,3 +1,16 @@
+/*
+
+Program: Hurricane.java          Last Date of this Revision: 10/9/2026
+
+Purpose: an application that displays the entered hurricane's category wind speeds.
+
+Author: Evan Chaba, 
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
+
 package SkillBuilders;
 
 import java.util.HashMap;
@@ -35,3 +48,11 @@ public class Hurricane {
         input.close();
 	}
 }
+
+
+/*  Screen Dump
+
+Enter a hurricane category (1-5): 3
+Category 3: 111-130 mph or 96-113 kt or 178-209 km/hr
+
+*/

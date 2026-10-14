@@ -1,3 +1,16 @@
+/*
+
+Program: RandomNum.java          Last Date of this Revision: 10/9/2026
+
+Purpose: An application that displays a random number between on the min and max entered by the user.
+
+Author: Evan Chaba, 
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
+
 package SkillBuilders;
 import java.util.Scanner;
 
@@ -19,3 +32,12 @@ public class RandomNum {
 	}
 
 }
+
+
+/*  Screen Dump
+
+Enter minimun number1
+Enter max number10
+7.0
+
+*/
